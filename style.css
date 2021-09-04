@@ -1,0 +1,97 @@
+
+
+#my_nav_bar{
+    top:0;
+    z-index: 99999;
+    position: sticky;
+    float: none;
+    width:100%;
+            
+}
+
+.movie_head{
+
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width:100%;
+    display:inline-block;
+}
+
+.movie_head i{
+    float: right;
+    
+}
+
+.movie_text span{
+    color: aquamarine;
+}
+
+.travel main_div hr{
+    width:50px;
+    text-align: left;
+    border-left:3px;
+    border-right:3px
+}
+
+
+.contact_us h1{
+    font-size:20px;
+    
+}
+
+.contact_us{
+    margin-left: 80px;
+
+}
+ 
+
+.environment_li{
+    list-style:none;
+    border-radius:20px;
+    
+}
+
+.environment_li hr{
+    color: black;
+    
+    
+}
+
+.environment_li img{
+    height:300px;
+    border-radius:20px;
+}
+
+
+.a.p.j_abdul_kalam{
+    height: 500px;
+    width:200px;
+} 
+
+.maodel-title{
+    
+    cursor:pointer;
+}
+
+#mukesh_ambani hr {
+    margin-top: 10px;
+    
+}
+
+.model-content{
+    margin-top: 108px;
+}
+
+.img-model{
+    display:inline-block;
+}
+
+.p-model{
+    margin-top: 10px;
+}
+
+
+
+    
+
